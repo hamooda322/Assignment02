@@ -2,7 +2,7 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-/*
+/* Task 1:
             int[] array0 = {1, 5, -5, 2, 12, 30};
             int[] array1 = {-10, 50, 15, 2};
 
@@ -22,7 +22,7 @@ public class Main {
     }
 
 
-
+Task 2:
             int[] array0 = {1, 5, -5, 2, 12, 30};
             int[] array1 = {-10, 50, 15, 2};
             boolean check = false;
@@ -63,7 +63,7 @@ public class Main {
 
     }
 
-
+Task 3:
         char[] array0 = {'s', 'a', 'b', 'a'};
         char temp;
 
@@ -90,7 +90,7 @@ public class Main {
 
 }
 
-
+Task 4:
         String myString = "Saba";
         String myString2 = "John";
         boolean checker = false;
@@ -140,7 +140,7 @@ public class Main {
 
 }
 
-
+Task 5:
         String myString = "madam";
         String myString2 = "test";
 
@@ -182,7 +182,7 @@ public class Main {
     }
 
 
-
+Task 6 (Got stuck):
         String text = "hello everyone. let's write some useful Java code today. we will begin with strings.";
 
         for (int i = 0; i < text.length(); ++i) {
